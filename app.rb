@@ -9,4 +9,4 @@ class Application < Sinatra::Base
 end
 
 
-./app.rb is our main application file, defining the controller that will power this web application
+#./app.rb is our main application file, defining the controller that will power this web application
